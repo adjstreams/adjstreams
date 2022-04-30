@@ -20,3 +20,7 @@ If there is any interest, I'll make changes to support others being able to use 
 
  - StreamGood.gg - [Tools, Overlays and widgets for Streamers](https://streamgood.gg)
  - SafeBeatz.com - [DMCA-Safe Music for Streamers and Content Creators](https://www.safebeatz.com)
+
+## If you'd like to buy me a coffee:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q0CFR70)
